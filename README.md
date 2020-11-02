@@ -1,2 +1,2 @@
 # SeleniumYandex
-Тестовое задание selenium
+Тестовое задание selenium для автотестирование
